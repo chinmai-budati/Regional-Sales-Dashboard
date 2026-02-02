@@ -53,4 +53,4 @@ To provide a performance-centric view of the retail portfolio that enables:
 * **Profitability Refinement:** Pinpointing categories with high sales but low profit allows for a more focused review of discount structures and shipping costs.
 
 ### 6. Screenshot:
-![Dashboard Preview](https://github.com/chinmai-budati/Ecommerce-Dashboard/blob/main/Ecommerce%20Dashboard.png)
+![Dashboard Preview][(https://github.com/chinmai-budati/Regional-Sales-Dashboard/blob/main/Regional%20Sales%20Dashboard.png)]
