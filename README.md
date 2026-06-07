@@ -54,4 +54,9 @@ To provide a performance-centric view of the retail portfolio that enables:
 
 ### 6. Screenshot:
 
+**[Click Here to Interact with the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGIzYmRlNGMtOGRiNS00YzY0LTlkMmQtYjY0MjQ1YzY3MjBhIiwidCI6IjhlMjQ0OTAwLWJiZDQtNGNlMC1iNzlhLTQ4ZTMwYWRjMDFkNyJ9
+)**
+
+(If the live link is unavailable, view the automated system demonstration below)
+
 ![Dashboard Preview](https://github.com/chinmai-budati/Regional-Sales-Dashboard/blob/main/Regional%20Sales%20Dashboard.png)
